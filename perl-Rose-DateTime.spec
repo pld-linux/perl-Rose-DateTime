@@ -7,13 +7,13 @@
 Summary:	Rose::DateTime - DateTime helper functions and objects.
 #Summary(pl.UTF-8):	
 Name:		perl-Rose-DateTime
-Version:	0.537
-Release:	2
+Version:	0.540
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/Rose/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	3215b1185f8668f257a324efb464853e
+Source0:	https://www.cpan.org/authors/id/J/JS/JSIRACUSA/%{pdir}-%{pnam}-%{version}.tar.gz
+# Source0-md5:	dd59316348ecf9827d432369242547bf
 URL:		http://search.cpan.org/dist/Rose-DateTime/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
